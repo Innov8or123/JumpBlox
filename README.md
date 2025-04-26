@@ -66,7 +66,7 @@ Game Over: Hitting a spike resets your position and updates the high score if ap
 
 Platformer.java: The main game file containing all logic, rendering, and UI.
 resources/VT323-Regular.ttf: The optional retro font file for authentic 90s arcade styling.
-screenshots/: Directory for game screenshots (add your own!).
+screenshots/: Directory for game screenshots.
 
 ## 🖥️ Gameplay Features
 
